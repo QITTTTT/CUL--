@@ -1,0 +1,5 @@
+my_dict = {'Attrition_Flag': 0, 'Dependent_count': 1, 'Total_Relationship_Count': 2, 'Contacts_Count_13_mon': 3, 'Credit_Limit': 4,
+ 'Avg_Open_To_Buy': 5, 'Open_To_Buy': 6, 'Total_Amt_Chng_Q4_Q1': 7, 'Total_Trans_Amt': 8, 'Avg_Utilization_Ratio': 9, 
+ 'Months_on_book': 10, 'Months_Inactive_12_mon': 11, 'Total_Trans_Ct': 12, 'Education_Level': 13, 'Marital_Status': 14, 
+ 'Card_Category': 15, 'Total_Revolving_Bal': 16, 'Total_Ct_Chng_Q4_Q1': 17, 'Total': 18, 'Customer_Age': 19, 'Gender': 20,
+ 'Income_Category': 21, 'Contacts_Count_12_mon':22}
